@@ -8,4 +8,6 @@
 
 Este proyecto va ser publico y abierto a cualquier feedback.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat&logo=github&logoColor=white)](https://github.com/Marcos-Alvarez2004/Traductor-de-Google-CLON.git)
+[![Traductor de Google](https://img.shields.io/badge/Traductor_de_Google-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://translate.google.com)
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-Marcos_Alvarez-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://marcos-alvarez.netlify.app)
